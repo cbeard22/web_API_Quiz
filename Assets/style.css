@@ -1,0 +1,54 @@
+* {
+    font-family:'Itim', cursive;
+}
+#header {
+    text-align: center;
+    font-size: 40px;
+}
+
+#question{
+    text-align: center;
+    font-size: 30px;
+}
+
+#answer1{
+    font-size: 20px;
+    display: flex;
+    border-width: 5px;
+    border-color: darkcyan;
+    border-radius: 15px;
+    margin-bottom: 10px;
+}
+
+#answer2{
+    font-size: 20px;
+    display: flex;
+    border-width: 5px;
+    border-color: darkcyan;
+    border-radius: 15px;
+    margin-bottom: 10px;
+}
+#answer3{
+    font-size: 20px;
+    display: flex;
+    border-width: 5px;
+    border-color: darkcyan;
+    border-radius: 15px;
+    margin-bottom: 10px;
+}
+
+#answer4{
+    font-size: 20px;
+    display: flex;
+    border-width: 5px;
+    border-color: darkcyan;
+    border-radius: 15px;
+    margin-bottom: 10px;
+}
+
+#quiz {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
